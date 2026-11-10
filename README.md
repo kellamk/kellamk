@@ -20,6 +20,7 @@ SQL · Python · Power BI · Microsoft Power Automate · Microsoft 365 · GitHub
 
 - **[Credit Card Portfolio Analytics](https://github.com/kellamk/credit-card-portfolio-analytics)** — SQL and Python analysis of synthetic credit card performance by vintage, acquisition channel, and product, with a [live report](https://kellamk.github.io/credit-card-portfolio-analytics/).
 - **[Subscription Pricing Experiment](https://github.com/kellamk/subscription-pricing-experiment)** — A simulated A/B test of a subscription price increase, with SQL, Python, a pricing recommendation, and a [Power BI dashboard preview](https://github.com/kellamk/subscription-pricing-experiment#dashboard-preview).
+- **[Automated KPI Reporting](https://github.com/kellamk/automated-kpi-reporting)** — A Python workflow that refreshes monthly acquisition KPIs from synthetic data, publishes a [reporting packet](https://github.com/kellamk/automated-kpi-reporting/blob/main/examples/healthy/kpi-packet.md), and raises alerts for missing or stale data.
 
 ## Education
 
