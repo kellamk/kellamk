@@ -18,7 +18,8 @@ SQL · Python · Power BI · Microsoft Power Automate · Microsoft 365 · GitHub
 
 ## Portfolio
 
-I'm building a portfolio focused on financial and marketing analytics, reporting, and automation. Portfolio projects will use public or synthetic data.
+- **[Credit Card Portfolio Analytics](https://github.com/kellamk/credit-card-portfolio-analytics)** — SQL and Python analysis of synthetic credit card performance by vintage, acquisition channel, and product, with a [live report](https://kellamk.github.io/credit-card-portfolio-analytics/).
+- **[Subscription Pricing Experiment](https://github.com/kellamk/subscription-pricing-experiment)** — A simulated A/B test of a subscription price increase, with SQL, Python, a pricing recommendation, and a [Power BI dashboard preview](https://github.com/kellamk/subscription-pricing-experiment#dashboard-preview).
 
 ## Education
 
